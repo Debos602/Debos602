@@ -1,4 +1,4 @@
-![Mernstack Developer](https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-1/468035363_3886458928262341_45594732671791089_n.jpg?stp=c0.9.465.465a_dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=cPVXATsPtGYQ7kNvgGFtKGj&_nc_zt=24&_nc_ht=scontent.fcgp17-1.fna&_nc_gid=AZXODhkRo5cFBl6_FGPSO6x&oh=00_AYBmyvqtaUkrp-jW836cM3BCa56u7nYtd2yX7o8o_kNGwA&oe=6747C0F1)
+![Mernstack Developer](https://i.ibb.co.com/3F6QhYZ/DALL-E-2024-11-23-20-40-51-A-Git-Hub-profile-banner-designed-with-Git-Hub-s-official-dark-theme-colo.webp)
 ### Hi there 👋, Hi, I am Debos Das
 #### Mernstack Web Developer
 
