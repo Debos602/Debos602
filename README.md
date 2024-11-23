@@ -1,4 +1,4 @@
-![Mernstack Developer](https://i.ibb.co.com/3F6QhYZ/DALL-E-2024-11-23-20-40-51-A-Git-Hub-profile-banner-designed-with-Git-Hub-s-official-dark-theme-colo.webp)
+
 #Hi, I am Debos Das
 ## Mernstack Web Developer
 
