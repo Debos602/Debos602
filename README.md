@@ -1,4 +1,4 @@
-
+![I am GitHub Readme Generator's creator](https://i.ibb.co.com/ck7Cyky/Gemini-Generated-Image-jg3udujg3udujg3u.jpg)
 # Hi, I am Debos Das
 ## Mernstack Web Developer
 
@@ -11,6 +11,20 @@ My expertise lies in building dynamic, engaging, and user-friendly web applicati
 
 ### Portfolio Link: 
 ## https://portfolio-frontend-pink.vercel.app/
+
+### Email Address:
+## debos.das.02@gmail.com
+### Working Technology Description:
+#### - HTML: Markup language for structuring web pages with text and media.
+#### - CSS: Styles web pages, defining layout, colors, fonts, and animations.
+#### - JavaScript: Programming language enabling interactive and dynamic behavior on websites.
+#### - TypeScript: JavaScript superset adding type safety and modern programming features.
+#### - React.js: JavaScript library for building interactive user interfaces in web applications.
+#### - Redux: State management library for predictable application data flow in React.
+#### - Next.js: React framework enabling server-side rendering and static site generation.
+#### - Express.js: Minimal web framework for building backend applications with Node.js.
+#### - MongoDB: NoSQL database for flexible, scalable, document-oriented data storage.
+#### - Firebase: Platform providing backend services like authentication, databases, and hosting.
  
 ### Languages and Tools:
 
