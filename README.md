@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co.com/ck7Cyky/Gemini-Generated-Image-jg3udujg3udujg3u.jpg)
+![I am GitHub Readme Generator's creator](https://i.ibb.co.com/CBQncCX/Gemini-Generated-Image-jg3udujg3udujg3u.png)
 # Hi, I am Debos Das
 ## Mernstack Web Developer
 
