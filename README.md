@@ -1,13 +1,13 @@
 ![Mernstack Developer](https://i.ibb.co.com/3F6QhYZ/DALL-E-2024-11-23-20-40-51-A-Git-Hub-profile-banner-designed-with-Git-Hub-s-official-dark-theme-colo.webp)
-### Hi there 👋, Hi, I am Debos Das
-#### Mernstack Web Developer
+#Hi, I am Debos Das
+## Mernstack Web Developer
 
-
+### About Me
 I am a passionate MERN stack developer from Bangladesh, with a strong focus on front-end technologies. While my academic background is not in Computer Science, I have been diligently honing my skills in both frontend and backend development. Over the years, I have become proficient in a variety of technologies, including HTML, CSS, JavaScript, TypeScript, React.js, Redux, Next.js, Express.js, MongoDB, and Firebase.
 
 My expertise lies in building dynamic, engaging, and user-friendly web applications using React.js. I am also expanding my backend knowledge through Express.js to create fully integrated solutions. With this diverse skill set, I am constantly improving my ability to craft exceptional user experiences and deliver high-quality applications.
-
-Skills: HTML, CSS, JavaScript, TypeScript, React.js, Redux, Next.js, Express.js, MongoDB, and Firebase.
+### About Me
+ HTML, CSS, JavaScript, TypeScript, React.js, Redux, Next.js, Express.js, MongoDB, and Firebase.
 
 - 🔭 I’m currently working on I working on my portfolio site 
 - 🌱 I’m currently learning Vanila javascript advance 
