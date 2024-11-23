@@ -1,5 +1,5 @@
 
-#Hi, I am Debos Das
+# Hi, I am Debos Das
 ## Mernstack Web Developer
 
 ### About Me:
@@ -8,6 +8,10 @@ I am a passionate MERN stack developer from Bangladesh, with a strong focus on f
 My expertise lies in building dynamic, engaging, and user-friendly web applications using React.js. I am also expanding my backend knowledge through Express.js to create fully integrated solutions. With this diverse skill set, I am constantly improving my ability to craft exceptional user experiences and deliver high-quality applications.
 ### Skills:
  HTML, CSS, JavaScript, TypeScript, React.js, Redux, Next.js, Express.js, MongoDB, and Firebase.
+
+### Portfolio Link: 
+## https://portfolio-frontend-pink.vercel.app/
+ 
 ### Languages and Tools:
 
  <a href="https://getbootstrap.com/">
@@ -27,9 +31,8 @@ My expertise lies in building dynamic, engaging, and user-friendly web applicati
 </a>
  <a href="https://www.mysql.com/">
   <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="Description" width="50" />
-</a>
-## 
-- 👨‍💻 All of my projects are available at https://portfolio-frontend-pink.vercel.app/
+</a> 
+
 - 🔭 I’m currently working on I working on my portfolio site 
 - 🌱 I’m currently learning Vanila javascript advance 
 - 👯 I’m looking to collaborate on GitHub 
