@@ -1,6 +1,5 @@
 ![logo](https://github.com/Debos602/Debos602/blob/main/White%20Green%20Flat%20Digital%20Marketing%20LinkedIn%20Banner.png)
 
-
 # 💫 About Me:
 - 🔭 I’m currently working on [Capture Web Application](https://local-bazar-2c557.firebaseapp.com/)<br><br>- 🌱 I’m currently learning **Next.js**<br><br>- 💬 Ask me about **Web Development and I am happy to help;**<br><br>- 📫 How to reach me **debos.das.02@gmail.com<br>**
 
@@ -17,6 +16,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Debos602&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Debos602&icon=0&color=0)](https://visitcount.itsvg.in)
